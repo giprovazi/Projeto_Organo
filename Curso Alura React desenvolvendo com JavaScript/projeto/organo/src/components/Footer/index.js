@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             </div>
 
-            <img src='imagens/logo.png'/>
+            <img src='imagens/logo.png' alt='Logo'/>
             
             <p>
                 Desenvolvido por Giovanni Romano.
