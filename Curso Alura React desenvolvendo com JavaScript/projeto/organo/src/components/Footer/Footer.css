@@ -1,0 +1,23 @@
+.footer {
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    align-items: center;
+    padding: 20px;
+    margin: 64px 0 0 0;
+}
+
+
+
+.footer p {
+    color: #ffff;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.footer div {
+    display: flex;
+    gap: 48px;
+    padding: 64px;
+}
